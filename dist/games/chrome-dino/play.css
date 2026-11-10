@@ -1,0 +1,7 @@
+body{margin:0;background:#fafafa;color:#343434;font:15px/1.5 system-ui,sans-serif}
+main{max-width:600px;margin:0 auto;padding:18px}h1{margin:0 0 6px;font-size:26px}p{margin:0 0 12px}
+#game{position:relative;height:155px;touch-action:none}#game:focus-visible{outline:2px solid #555}
+.runner-container{position:absolute;inset:0 auto auto 0;height:150px;overflow:hidden}
+.runner-canvas{position:absolute;top:0;left:0;height:150px}
+.controller{position:absolute;inset:0;z-index:1;touch-action:none}
+.hidden{display:none}.inverted{filter:invert(100%);background:#111}

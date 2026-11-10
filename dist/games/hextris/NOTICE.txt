@@ -1,0 +1,5 @@
+Hextris by Logan Engstrom, Garrett Finucane, Noah Moroze, and Michael Yang.
+Copyright (C) 2018 Logan Engstrom. GNU GPL version 3 or later.
+Source: https://github.com/Hextris/hextris/tree/3f4847dc8fd7dab3d1c87e6324b9159d92fbd396
+Game Nova modified the web edition on 2026-11-08. Removed external ads, analytics, remote score and script calls, social links, store links, and font dependencies.
+The included HTML, CSS, JavaScript, and images are the playable source. Original icon from images/icons/transparent-512.png.

@@ -1,0 +1,29 @@
+{
+  "entry": "custompenalty/index.html",
+  "texts": {
+    "how_to_play": "Penalties: On your turn, choose Left/Center/Right and tap Action to shoot. On defense, choose a dive direction and tap Action to commit. Score more than the CPU in 5 rounds. Ties go to sudden death.",
+    "score_label": "Score",
+    "win_title": "Champions!",
+    "game_over_title": "Defeated!"
+  },
+  "gameplay": {
+    "orientation": "portrait",
+    "rounds": 5,
+    "turnTimeMs": 6000,
+    "ballFlightMs": 700,
+    "keeperDiveMs": 350,
+    "keeperResetMs": 250,
+    "laneSpreadX": 260,
+    "goalWidth": 800,
+    "goalHeight": 280,
+    "keeperWidth": 300,
+    "keeperHeight": 180,
+    "cpuSaveBias": 0.4,
+    "timerSeconds": 60,
+    "playerSpeed": 300,
+    "enemySpawnRate": 3000
+  },
+  "images": {},
+  "spritesheets": {},
+  "audio": {}
+}

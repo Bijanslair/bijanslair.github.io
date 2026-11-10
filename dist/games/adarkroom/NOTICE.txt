@@ -1,0 +1,3 @@
+A Dark Room, created by Michael Townsend / Doublespeak Games and contributors. MPL 2.0.
+Source: https://github.com/doublespeakgames/adarkroom/tree/1fada4620b6c66bd07bf15a3f1eb8223df8bc1d7
+Game Nova changes: removed analytics, loaded the bundled jQuery locally, and set the viewport. The web game uses the original desktop layout. Cover art: img/adr.png, from the original repository.

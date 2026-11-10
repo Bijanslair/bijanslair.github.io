@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="244" viewBox="0 0 500 244">
+<defs><radialGradient id="glow"><stop stop-color="#64748b"/><stop offset="1" stop-color="#171328"/></radialGradient></defs>
+<rect width="500" height="244" rx="12" fill="url(#glow)"/>
+<circle cx="250" cy="93" r="66" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="2"/>
+<text x="250" y="123" text-anchor="middle" fill="#fff" font-size="79" font-family="Segoe UI Symbol, sans-serif">♞</text>
+<text x="250" y="192" text-anchor="middle" fill="#fff" font-size="30" font-weight="700" font-family="system-ui, sans-serif">Chess</text>
+</svg>

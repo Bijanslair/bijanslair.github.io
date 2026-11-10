@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#111114"><meta name="description" content="Bijan’s Lair is an Atlanta Falcons fan arcade for browser games."><title>Bijan’s Lair | Browser Arcade</title><link rel="icon" href="atl-mark.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=atl"><script src="arcade.js?v=atl" defer></script></head>
+<body><a class="skip" href="#library">Skip to games</a><header><div class="wrap bar"><a class="brand" href="./"><img src="atl-mark.svg" alt="">BIJAN’S <span>LAIR</span></a><nav aria-label="Main navigation"><button data-view="all" aria-pressed="true">Discover</button><button data-view="saved" aria-pressed="false">♡ Favorites</button></nav><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search games" aria-label="Search games"></label></div></header>
+<main class="wrap"><section class="hero" aria-labelledby="hero-title"><div class="hero-text"><div class="eyebrow"><i></i> ATLANTA FALCONS FAN ARCADE</div><h1 id="hero-title">RISE<br><em>UP.</em></h1><p>Kick off with Retro Bowl or pick any game from Bijan’s Lair.</p><div class="actions"><a href="#library" class="primary">Browse games <span aria-hidden="true">↓</span></a><button id="surprise" class="secondary"><span aria-hidden="true">⤨</span> Surprise me</button></div></div><div class="hero-tag">ATL &nbsp; / &nbsp; BIJAN’S LAIR</div></section>
+<section id="library" aria-labelledby="library-title"><div class="section-kicker">▰ &nbsp; PICK A GAME</div><div class="section-head"><h2 id="library-title">Game library</h2><span id="count" role="status"></span></div><div id="filters" class="filters" aria-label="Game categories"></div><div id="games" class="games"></div></section>
+<aside class="ad" aria-label="Reserved advertising space"><span>ADVERTISEMENT</span><p>Reserved sponsor space</p></aside></main>
+<footer class="wrap"><a class="brand" href="./"><img src="atl-mark.svg" alt="">BIJAN’S <span>LAIR</span></a><p>An Atlanta Falcons fan arcade.</p><button id="about">About &amp; privacy</button></footer>
+<dialog id="details" aria-labelledby="detail-title">
+  <div id="game-window">
+    <div class="dialog-head">
+      <h2 id="detail-title"></h2>
+      <div class="dialog-actions">
+        <button id="game-fullscreen" class="secondary" type="button" hidden>Fullscreen</button>
+        <form method="dialog"><button class="close" aria-label="Close">×</button></form>
+      </div>
+    </div>
+    <div id="detail-body"></div>
+  </div>
+</dialog>
+</body></html>

@@ -1,0 +1,3 @@
+2048 by Gabriele Cirulli. MIT License.
+Source: https://github.com/gabrielecirulli/2048/tree/478b6ec346e3787f589e4af751378d06ded4cbbc
+Game Nova changed the hosting notice and uses a system font fallback. Original icon from meta/apple-touch-icon.png.
